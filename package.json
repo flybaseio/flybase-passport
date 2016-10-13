@@ -1,0 +1,23 @@
+{
+  "name": "flyport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Stringer <roger@datamcfly.com> (http://datamcfly.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.15.2",
+    "connect-flash": "0.1.1",
+    "cookie-parser": "1.4.3",
+    "ejs": "2.5.2",
+    "express": "4.14.0",
+    "express-session": "1.14.1",
+    "flybase": "1.7.8",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0"
+  }
+}
