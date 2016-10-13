@@ -94,5 +94,4 @@ module.exports = function(usersRef, passport) {
             done(null, false, req.flash('loginMessage', 'No user found.')); // req.flash is the way to set flashdata using connect-flash
 		});
     }));
-
 };
