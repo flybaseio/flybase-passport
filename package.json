@@ -18,6 +18,9 @@
     "express-session": "1.14.1",
     "flybase": "1.7.8",
     "passport": "0.3.2",
-    "passport-local": "1.0.0"
+    "passport-facebook": "2.1.1",
+    "passport-google-oauth": "1.0.0",
+    "passport-local": "1.0.0",
+    "passport-twitter": "1.0.4"
   }
 }
