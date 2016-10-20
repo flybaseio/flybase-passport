@@ -7,8 +7,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var session = require('express-session')
 
-//var api_key = "YOUR-FLYBASE-API-KEY";
-var api_key = "ca46be22-5ae6-4e61-b775-49737096f02e";
+var api_key = "YOUR-FLYBASE-API-KEY";
 var appname = "passport";
 var collection = "users";
 
